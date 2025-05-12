@@ -1,4 +1,4 @@
-Hello, I am **anakataa** (aka <a target="_blank" href="https://x.com/qualitestahol1c" title="My Twitter"><img src="https://img.shields.io/badge/-@qualitestahol1c-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/qualitestahol1c"></a>) and [LinkedIn](https://www.linkedin.com/in/kirill-staroshchuk-08177b210/). I am intresting [Capture the Flag(CTF)](https://ctftime.org/) and everything related to it. Recantly occuped position Data Miner but now begin career in cybersecruty. 
+Hello, I am **anakataa** (aka <a target="_blank" href="https://x.com/qualitestahol1c" title="My Twitter"><img src="https://img.shields.io/badge/-@qualitestahol1c-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/qualitestahol1c"></a>). I am intresting [Capture the Flag(CTF)](https://ctftime.org/) and everything related to it. Recantly occuped position Data Miner but now begin career in cybersecruty. 
 
 ### Main projects (highly recommend):
 
