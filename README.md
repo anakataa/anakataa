@@ -10,7 +10,7 @@ Hello, I am **anakataa** (aka <a target="_blank" href="https://x.com/qualitestah
 ![My stats](https://github-readme-stats.vercel.app/api?username=anakataa&count_private=true&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anakataa&theme=react)](https://git.io/streak-stats)
 
-### My TryHackMe Progress
+### My TryHackMe Progress:
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/anakataa.png)
 
