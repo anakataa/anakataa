@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=My+name+is+anakataa!;A.K.A+Aquinas+or+aquinas_nz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=My+name+is+anakataa!;A.K.A+qualitestahol1c)](https://git.io/typing-svg)
 
 
 (aka <a target="_blank" href="https://x.com/qualitestahol1c" title="My Twitter"><img src="https://img.shields.io/badge/-@qualitestahol1c-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/qualitestahol1c"></a>). I am intresting [Capture the Flag(CTF)](https://ctftime.org/) and everything related to it. Recantly occuped position Data Miner but now begin career in cybersecruty. <p><img src="https://komarev.com/ghpvc/?username=anakataa&label=Profile%20views&color=0e75b6&style=flat" alt="anakataa" /></p>
@@ -10,8 +10,8 @@
 - [Linux for OSINT. 21-day course for beginners](https://github.com/anakataa/linux-for-OSINT-21-day)
 
 ### Stats:
-![My stats](https://github-readme-stats.vercel.app/api?username=anakataa&count_private=true&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anakataa&theme=react)](https://git.io/streak-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anakataa&count_private=true&show_icons=true&theme=chartreuse-dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anakataa&theme=react&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ### My TryHackMe Progress:
 
