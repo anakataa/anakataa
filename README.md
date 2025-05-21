@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=My+name+is+anakataa!;A.K.A+qualitestahol1c)](https://git.io/typing-svg)
 
 
-(aka <a target="_blank" href="https://x.com/qualitestahol1c" title="My Twitter"><img src="https://img.shields.io/badge/-@qualitestahol1c-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/qualitestahol1c"></a>). I am intresting [Capture the Flag(CTF)](https://ctftime.org/) and everything related to it. Recantly occuped position Data Miner but now begin career in cybersecruty. <p><img src="https://komarev.com/ghpvc/?username=anakataa&label=Profile%20views&color=0e75b6&style=flat" alt="anakataa" /></p>
+I am intresting [Capture the Flag(CTF)](https://ctftime.org/) and everything related to it. Recantly occuped position Data Miner but now begin career in cybersecruty. <p><img src="https://komarev.com/ghpvc/?username=anakataa&label=Profile%20views&color=0e75b6&style=flat" alt="anakataa" /></p>
 
 ### Main projects (highly recommend):
 
