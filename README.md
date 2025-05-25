@@ -13,7 +13,4 @@ I am intresting [Capture the Flag(CTF)](https://ctftime.org/) and everything rel
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anakataa&count_private=true&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anakataa&theme=react&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-### My TryHackMe Progress:
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/anakataa.png)
 
