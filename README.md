@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=My+name+is+anakataa!;A.K.A+qualitestahol1c)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=My+name+is+anakataa!;A.K.A+v1ncent)](https://git.io/typing-svg)
 
 
 ### Main projects (highly recommend):
