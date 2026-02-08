@@ -7,7 +7,4 @@
 - [Worldwide map of 650+ OSINT tools](https://github.com/anakataa/osintmap)
 - [Linux for OSINT. 21-day course for beginners](https://github.com/anakataa/linux-for-OSINT-21-day)
 
-### Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anakataa&count_private=true&show_icons=true&theme=chartreuse-dark)
-
 
