@@ -1,14 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=courier+new&color=0BF700&lines=My+name+is+anakataa!;A.K.A+v1ncent)](https://git.io/typing-svg)
 
+##  What I work with
 
-### Featured Projects :
+**Cloud & IaC**
+`AWS` `Azure` `Terraform` `Docker` `Kubernetes`
 
-| Project | Stack | Description |
-|---|---|---|
-| [devsecops-aws-project](https://github.com/anakataa/devsecops-aws-project) | Terraform · GitHub Actions · Trivy · tfsec · k3s · AWS | Full DevSecOps pipeline: IaC on AWS, CI/CD with automated security scanning |
-| [Security-Foundations-PKI](https://github.com/anakataa/Security-Foundations-Project-PKI-Setup-and-Client-Connection) | SmallStep · TLS · PKI | Private Certificate Authority setup with client authentication |
-| [IoT-Fire-Detection](https://github.com/anakataa/IoT-Fire-Detection-and-Safety-System-) | C · Azure · IoT | Real-time fire/gas detection system with emergency alerts |
-| [Cloud-Network-Security](https://github.com/anakataa/devsecops-aws-project) | AWS · VPC · IAM · CloudTrail | Secure AWS network environment with firewall and monitoring |
+**CI/CD & Security**
+`GitHub Actions` `Trivy` `tfsec` `Snyk` `Snort`
+
+**Systems & Networking**
+`Linux` `Windows Server` `Active Directory` `DNS/DHCP` `VPN` `Nmap` `Wireshark`
+
+**Scripting**
+`Python` `Bash` `PowerShell`
+
+**Monitoring**
+`Grafana` `Prometheus` `Zabbix` `Nagios`
 
 
 
